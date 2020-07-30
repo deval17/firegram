@@ -1,4 +1,4 @@
-This is just a photo uploading portal. I have mainly used React JS and also Firebase to sore the images.
+This is just a photo uploading portal. I have mainly used React JS and also Firebase to store and retrieve the images.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
